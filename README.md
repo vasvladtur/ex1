@@ -34,18 +34,17 @@
 - нажать гиперссылка справа,
 - кнопка Подобрать товары)
 В этой форме релизовать: Добавить все характеристики номенклатуры при выборе номенклатуры
+
+
 5.1. Решение
+
 5.2. Добавить в форму ПодборТоваровВДокументПродажи кнопку и команду
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Просмотр кода</summary>
 
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
+### Код формы
 
 ```
 &НаСервере
