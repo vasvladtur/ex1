@@ -3924,6 +3924,8 @@ http://v8.1c.ru/edi/edi_stnd/yr3/1.1
 <details>
 
 <summary>ЗУП</summary>
-
+```
+//1
+```
 
 </details>
