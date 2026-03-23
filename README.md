@@ -3919,6 +3919,11 @@ http://v8.1c.ru/edi/edi_stnd/yr3/1.1
 </details>
 
 
+</details>
+
+<details>
+
+<summary>ЗУП</summary>
 
 
 </details>
